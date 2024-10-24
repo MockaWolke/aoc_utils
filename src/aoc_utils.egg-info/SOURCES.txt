@@ -1,0 +1,13 @@
+README.md
+setup.py
+src/aoc/__init__.py
+src/aoc/command_line.py
+src/aoc/get_data.py
+src/aoc/open_webpage.py
+src/aoc/start.py
+src/aoc/utils.py
+src/aoc_utils.egg-info/PKG-INFO
+src/aoc_utils.egg-info/SOURCES.txt
+src/aoc_utils.egg-info/dependency_links.txt
+src/aoc_utils.egg-info/entry_points.txt
+src/aoc_utils.egg-info/top_level.txt
